@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Anand Prabhu and I enjoy creating things that live on the internet. My interest in web and aoi development started back in 2017
+Hello! My name is Anand Prabhu and I enjoy creating things that live on the internet. My interest in web and API development started back in 2017
 
 
 ## 🌐 Socials:
